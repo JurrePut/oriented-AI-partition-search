@@ -15,6 +15,3 @@ This code was developed in support of the master's thesis:
 
 **"AI-Partitions in Cubic Graphs"**  
 *by Jurre Put, KU Leuven*
-
-The full thesis (written in LaTeX) is available in this repository under the filename:
-
