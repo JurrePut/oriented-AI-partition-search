@@ -13,5 +13,5 @@ The code is implemented in [SageMath](https://www.sagemath.org/) and is designed
 
 This code was developed in support of the master's thesis:
 
-**"AI-Partitions in Cubic Graphs"**  
+**"AI-Partitions of Cubic Graphs"**  
 *by Jurre Put, KU Leuven*
